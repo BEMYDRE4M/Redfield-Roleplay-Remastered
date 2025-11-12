@@ -1,6 +1,6 @@
-# 🌍 Dre4my's Excellent Roleplay (Dre4my's World)
+# 🌍 Dre4mY's Excellent Roleplay (Dre4mY's World)
 
-**Dre4my's Excellent Roleplay** is a comprehensive and feature-packed roleplay gamemode, offering an immersive and long-term RP experience filled with depth, variety, and endless possibilities.   
+**Dre4mY's Excellent Roleplay** is a comprehensive and feature-packed roleplay gamemode, offering an immersive and long-term RP experience filled with depth, variety, and endless possibilities.   
 Development and support have been discontinued; this upload serves mainly for archiving.
 
 ---
