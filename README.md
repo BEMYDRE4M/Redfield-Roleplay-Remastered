@@ -1,9 +1,12 @@
 # 🌍 Dre4mY's Excellent Roleplay (Dre4mY's World)
 
-**Dre4mY's Excellent Roleplay** is a comprehensive and feature-packed roleplay gamemode, offering an immersive and long-term RP experience filled with depth, variety, and endless possibilities.   
+This gamemode was developed from 2016 to 2020. **Dre4mY's Excellent Roleplay** is a comprehensive and feature-packed roleplay gamemode, offering an immersive and long-term RP experience filled with depth, variety, and endless possibilities.   
 Development and support have been discontinued; this upload serves mainly for archiving.
 
 https://multitheftauto.com
+
+⚠️ **Note:** Some systems of the gamemode could probably no longer working correctly and need to be updated.   
+Development and support have been discontinued; this upload serves mainly for archiving.
 
 ---
 
