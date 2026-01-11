@@ -27,13 +27,6 @@ The gamemode was developed from **2016 to 2020** and is a comprehensive and feat
 
 ---
 
-## ℹ️ Notice
-
-This gamemode is provided **for archival, educational, or nostalgic purposes only**.  
-It is **not recommended** for production use or new server projects.
-
----
-
 ## ⚙️ Core Systems
 
 - 🔐 MySQL-based register & login system  
